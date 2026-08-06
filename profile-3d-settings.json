@@ -1,0 +1,16 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "profile-blue-animate.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#c9d1d9",
+    "strongColor": "rgb(0,198,255)",
+    "weakColor": "#30363d",
+    "radarColor": "rgb(0,198,255)",
+    "growingAnimation": true,
+    "saturation": "70%",
+    "contribLightness": ["18%", "30%", "40%", "55%", "70%"],
+    "duration": "8s",
+    "hueRatio": 0
+  }
+]
